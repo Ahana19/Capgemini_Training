@@ -1,1 +1,2 @@
 This is FILE B
+edited in b1 branch
