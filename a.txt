@@ -1,2 +1,6 @@
 This is FILE A
+<<<<<<< HEAD
 Edited in master
+=======
+
+>>>>>>> b1
