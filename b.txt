@@ -1,3 +1,7 @@
 This is FILE B
+<<<<<<< HEAD
 Edited in master
 edited in main branch
+=======
+
+>>>>>>> b1
